@@ -7,4 +7,3 @@ C语言环境配置
 官网：https://winlibs.com/ (下载Zip archive）
 VSclode中需开启扩展插件（必要扩展）
 c/c++、c/c++ Extension Pack、c/c++ Themes、Code Runner
-测试
